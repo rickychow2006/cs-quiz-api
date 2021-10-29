@@ -1,0 +1,16 @@
+{
+    "results": [
+        {
+            "category": "Data Structures",
+            "type": "multiple",
+            "question": "A linked list is a collection of?",
+            "correct_answer": "nodes",
+            "incorrect_answers": [
+               "classes",
+               "addresses",
+               "memory variables"
+            ]
+         }
+     ]
+
+}
