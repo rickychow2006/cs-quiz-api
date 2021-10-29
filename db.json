@@ -11,6 +11,17 @@
                "memory variables"
             ]
          }
+         {
+            "category": "Data Structures",
+            "type": "multiple",
+            "question": "A(n) is a list of items, called nodes, in which the next node is determined by the address, called the link, stored in each node.",
+            "correct_answer": "linked list",
+            "incorrect_answers": [
+               "array",
+               "structure",
+               "hash table"
+            ]
+         }
      ]
 
 }
