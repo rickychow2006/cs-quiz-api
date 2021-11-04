@@ -1,27 +1,68 @@
 {
-    "results": [
+    "data": [
         {
-            "category": "Data Structures",
-            "type": "multiple",
-            "question": "A linked list is a collection of?",
-            "correct_answer": "nodes",
-            "incorrect_answers": [
-               "classes",
-               "addresses",
-               "memory variables"
-            ]
+            "question": "Which of the following is not a disadvantage to the usage of array?",
+            "choice1": "Fixed size",
+            "choice2": "You know the size of the array prior to allocation",
+            "choice3": "Insertion based on position",
+            "choice4": "Accessing elements at specified positions",
+            "answer": "Accessing elements at specified positions"
          },
          {
-            "category": "Data Structures",
-            "type": "multiple",
-            "question": "A(n) is a list of items, called nodes, in which the next node is determined by the address, called the link, stored in each node.",
-            "correct_answer": "linked list",
-            "incorrect_answers": [
-               "array",
-               "structure",
-               "hash table"
-            ]
+            "question": "What is the time complexity to count the number of elements in the linked list?",
+            "choice1": "O(1)",
+            "choice2": "O(n)",
+            "choice3": "O(log n)",
+            "choice4": "O(log n^2)",
+            "answer": "O(n)"
+         },
+         {
+            "question": "Which of these is an application of linked lists?",
+            "choice1": "To store the information and the link to the next item",
+            "choice2": "To check for the end of the list",
+            "choice3": "Not used in a linked list",
+            "choice4": "All of above",
+            "answer": "To store the information and the link to the next item"
+         },
+         {
+            "question": "What is a node used for in a linked list?",
+            "choice1": "To implement file systems",
+            "choice2": "For separate chaining in hash-tables",
+            "choice3": "To implement non-binary trees",
+            "choice4": "All of above",
+            "answer": "All of above"
+         },       
+         {
+            "question": "A linked list is a collection of?",
+            "choice1": "Classes",
+            "choice2": "Addresses",
+            "choice3": "Nodes",
+            "choice4": "Memory Variables",
+            "answer": "Nodes"
+         },       
+         {
+            "question": "Whenever a system is modeled on the First In First Out principle, are used.",
+            "choice1": "Hash Table",
+            "choice2": "Tree",
+            "choice3": "Queue",
+            "choice4": "Network",
+            "answer": "Queue"
+         },       
+         {
+            "question": "The ability to create new data types from existing data types.",
+            "choice1": "Encapsulation",
+            "choice2": "Information Hiding",
+            "choice3": "Inheritance",
+            "choice4": "Polymorphism",
+            "answer": "Inheritance"
+         },                
+         {
+            "question": "Which of the following data structures allows direct access to all of its items?",
+            "choice1": "Array",
+            "choice2": "Stack",
+            "choice3": "Queue",
+            "choice4": "Linked List",
+            "answer": "Array"
          }
      ]
-
 }
