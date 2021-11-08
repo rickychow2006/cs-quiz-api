@@ -1,5 +1,5 @@
 {
-    "data": [
+    "data_structure": [
         {
             "question": "Which of the following is not a disadvantage to the usage of array?",
             "choice1": "Fixed size",
@@ -240,6 +240,14 @@
             "choice4": "Binary Search Tree",
             "answer": "Complete Binary Tree"
          }
-        
+     ],
+     "front_end": [  
+         {  "question": "Which of the following is not a valid data in JavaScript?",
+            "choice1": "Undefined",
+            "choice2": "Boolean",
+            "choice3": "Float",
+            "choice4": "Number",
+            "answer": "Float"
+     }
      ]
 }
