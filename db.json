@@ -63,6 +63,183 @@
             "choice3": "Queue",
             "choice4": "Linked List",
             "answer": "Array"
+         },
+         {
+            "question": "What is the address of the first node in the list is stored in a separate location.",
+            "choice1": "Head",
+            "choice2": "Key",
+            "choice3": "Tail",
+            "choice4": "Top",
+            "answer": "Head"
+         },
+         {
+            "question": "In a recursive solution to a problem, we solve a problem P(n) by solving another problem P(k) where",
+            "choice1": "P(k) is smaller than P(n)",
+            "choice2": "P(k) is same as P(n)",
+            "choice3": "P(k) is the hardest part of P(n)",
+            "choice4": "P(k) is larger problem than P(n)",
+            "answer": "P(k) is smaller than P(n)"
+         },
+         {
+            "question": "What is a function that contains a function call to itself?",
+            "choice1": "Self-reference Function",
+            "choice2": "Reciprocal Function",
+            "choice3": "Repetitive Function",
+            "choice4": "Recursive Function",
+            "answer": "Recursive Function"
+         },
+         {
+            "question": "If the array, [6, 2, 7, 13, 8, 5], is added to a stack, in the order given, which number will be the first number to be removed from the stack?",
+            "choice1": "8",
+            "choice2": "5",
+            "choice3": "6",
+            "choice4": "2",
+            "answer": "5"
+         },
+         {
+            "question": "What data structure is used for Breath First traversal of a graph",
+            "choice1": "Queue",
+            "choice2": "Stack",
+            "choice3": "List",
+            "choice4": "None of the above",
+            "answer": "Queue"
+         },
+         {
+            "question": "Quick Sort algorithm is an example of?",
+            "choice1": "Greedy Approach",
+            "choice2": "Improved Binary Search",
+            "choice3": "Dynamic Programming",
+            "choice4": "Divide and Conquer",
+            "answer": "Divide and Conquer"
+         },
+         {
+            "question": "Which of the following searching techniques do not require the data to be in sorted form?",
+            "choice1": "Binary Search",
+            "choice2": "Interpolation Search",
+            "choice3": "Linear Search",
+            "choice4": "All of the above",
+            "answer": "Linear Search"
+         },
+         {
+            "question": "Visting root node after visiting left and right sub-trees is called?",
+            "choice1": "In-order Traversal",
+            "choice2": "Pre-order Traversal",
+            "choice3": "Post-order Traversal",
+            "choice4": "Tree Traversal",
+            "answer": "Post-order Traversal"
+         },
+         {
+            "question": "Which of the following algorithms is not stable?",
+            "choice1": "Bubble Sort",
+            "choice2": "Quick Sort",
+            "choice3": "Merge Sort",
+            "choice4": "Insertion Sort",
+            "answer": "Quick Sort"
+         },
+         {
+            "question": "If the array is already sorted, which of these algorithms will exhibit the best performance?",
+            "choice1": "Merger Sort",
+            "choice2": "Insertion Sort",
+            "choice3": "Quick Sort",
+            "choice4": "Heap Sort",
+            "answer": "Insertion Sort"
+         },
+         {
+            "question": "Graph Traversal is different from a Tree Traversal, becasue",
+            "choice1": "Trees are not connected",
+            "choice2": "Graphs may have loops",
+            "choice3": "Trees have root",
+            "choice4": "None is true as tree is a subset of a graph",
+            "answer": "Trees have root"
+         },
+         {
+            "question": "The time complexity of Depth First Traversal is?",
+            "choice1": "O(V+E)",
+            "choice2": "O(V)",
+            "choice3": "O(E)",
+            "choice4": "O(V*E)",
+            "answer": "O(V+E)"
+         },
+         {
+            "question": "For a Binary Search Algorithm to work, it is necessary that the array(list) must be",
+            "choice1": "Sorted",
+            "choice2": "Unsorted",
+            "choice3": "In a heap",
+            "choice4": "Pooped out of a stack",
+            "answer": "Sorted"
+         },
+         {
+            "question": "What data structure is used for Depth First Traversal of a graph?",
+            "choice1": "Queue",
+            "choice2": "Stack",
+            "choice3": "List",
+            "choice4": "None of the above",
+            "answer": "Stack"
+         },
+         {
+            "question": "What data structure can be used to check if a syntax has Balanced Parentheses?",
+            "choice1": "Queue",
+            "choice2": "Tree",
+            "choice3": "List",
+            "choice4": "Stack",
+            "answer": "Stack"
+         },
+         {
+            "question": "Minimum number of queues required for priority queue implementation?",
+            "choice1": "5",
+            "choice2": "4",
+            "choice3": "3",
+            "choice4": "2",
+            "answer": "2"
+         },
+         {
+            "question": "How many swaps are required to sort the given array using bubble sort - { 2, 5, 1, 3, 4}",
+            "choice1": "4",
+            "choice2": "5",
+            "choice3": "6",
+            "choice4": "7",
+            "answer": "4"
+         },
+         {
+            "question": "In binary heap, whenever the root is removed then the rightmost element of last level is replaced by the root. Why?",
+            "choice1": "It is the easiet possible way",
+            "choice2": "To make sure that it is still complete binary tree",
+            "choice3": "Because left and right subtree might be missing",
+            "choice4": "None of the above",
+            "answer": "To make sure that it is still complete binary tree"
+         },
+         {
+            "question": "Quick Sort running time depends on the selection of",
+            "choice1": "Size of array",
+            "choice2": "Pivot Element",
+            "choice3": "Sequence of values",
+            "choice4": "Stack",
+            "answer": "Pivot Element"
+         },
+         {
+            "question": "Which of these algorithmic approach tries to achieve localized optimum solution?",
+            "choice1": "Greedy Approach",
+            "choice2": "Divide and Conquer Approach",
+            "choice3": "Dynamic Approach",
+            "choice4": "2 Pointers Approach",
+            "answer": "Greedy Approach"
+         },
+         {
+            "question": "In Doubly Linked List",
+            "choice1": "A pointer is maintained to store both next and previous nodes",
+            "choice2": "Two pointers are maintained to store next and previous nodes",
+            "choice3": "A pointer to self is maintained for each node",
+            "choice4": "None of the above",
+            "answer": "Two pointers are maintained to store next and previous nodes"
+         },
+         {
+            "question": "Heap is an example of",
+            "choice1": "Complete Binary Tree",
+            "choice2": "Spanning Tree",
+            "choice3": "Sparse Tree",
+            "choice4": "Binary Search Tree",
+            "answer": "Complete Binary Tree"
          }
+        
      ]
 }
