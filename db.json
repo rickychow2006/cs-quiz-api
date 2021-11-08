@@ -353,7 +353,7 @@
                "choice2": "AMD",
                "choice3": "NovodeX",
                "choice4": "Nvidia",
-               "answer": "NovodeX",
+               "answer": "NovodeX"
             },
             {
                "question": "Which operating system was released first?",
