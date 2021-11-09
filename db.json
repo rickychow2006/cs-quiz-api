@@ -434,5 +434,223 @@
             "choice4": "Turbo Speed",
             "answer": "Long Term Support"
         }
+    ],
+    "java_script": [
+        {
+            "question": "JavaScript is a ___ typed programming language.",
+            "choice1": "Dynamically",
+            "choice2": "Statically",
+            "choice3": "Strongly",
+            "choice4": "Formally",
+            "answer": "Dynamically"
+        },
+        {
+            "question": "All of the following are valid JavaScript data types except ____.",
+            "choice1": "Number",
+            "choice2": "String",
+            "choice3": "Float",
+            "choice4": "Boolean",
+            "answer": "Float"
+        },
+        {
+            "question": "What are undeclared variables?",
+            "choice1": "Variables that do not exist",
+            "choice2": "Variables that are true",
+            "choice3": "Variables that are not within scope",
+            "choice4": "Variables that are false",
+            "answer": "Variables that do not exist"
+        },
+        {
+            "question": "Which concept determines the accessibility of a given variable in a program?",
+            "choice1": "Prompts",
+            "choice2": "Boolean",
+            "choice3": "Type",
+            "choice4": "Scope",
+            "answer": "Scope"
+        },
+        {
+            "question": "Which operator is used to compare to values that are exactly the same (without any type conversions)?",
+            "choice1": "===",
+            "choice2": "==",
+            "choice3": "=",
+            "choice4": "====",
+            "answer": "==="
+        },
+        {
+            "question": "What is the NULL value in Javascript?",
+            "choice1": "There is no value",
+            "choice2": "The value is undefined",
+            "choice3": "The value is the boolean: false",
+            "choice4": "The value is not declared",
+            "answer": "There is no value"
+        },
+        {
+            "question": "What is the break statement of a loop?",
+            "choice1": "Break statements exit the current loop",
+            "choice2": "Break statements to enter next loop",
+            "choice3": "Break statements exit the entire function",
+            "choice4": "Break statements exit the program",
+            "answer": "Break statements exit the current loop"
+        },
+        {
+            "question": "What is a primitive data type?",
+            "choice1": "A type that is always returns true",
+            "choice2": "A type that has no methods of its own",
+            "choice3": "A type that stores other objects",
+            "choice4": "A type that is an Object",
+            "answer": "A type that has no methods of its own"
+        },
+        {
+            "question": "Which keyword when declaring variables will not allow reassignment?",
+            "choice1": "var",
+            "choice2": "let",
+            "choice3": "const",
+            "choice4": "stay",
+            "answer": "const"
+        },
+        {
+            "question": "Which keyword when declaring variables will allow reassignment but signals it will only be used within its block scope?",
+            "choice1": "var",
+            "choice2": "let",
+            "choice3": "const",
+            "choice4": "block",
+            "answer": "let"
+        },
+        {
+            "question": "Which keyword will allow a child class to inherit from a parent class?",
+            "choice1": "inherit",
+            "choice2": "extends",
+            "choice3": "evolve",
+            "choice4": "from",
+            "answer": "extends"
+        },
+        {
+            "question": "In JavaScript, variables & functions can be declared after it has been used. This is called ___.",
+            "choice1": "declaration",
+            "choice2": "hoisting",
+            "choice3": "predeclaration",
+            "choice4": "func",
+            "answer": "hoisting"
+        },
+        {
+            "question": "Which of the following can be stored and passed into parameters as reference?",
+            "choice1": "Primitive Data Types",
+            "choice2": "Reference Data Types",
+            "choice3": "Declared Data Types",
+            "choice4": "Dynamic Data Types",
+            "answer": "Reference Data Types"
+        },
+        {
+            "question": "A ___ is an inner function that has access to the outer (enclosing) function's variable-scope chain.",
+            "choice1": "parameter",
+            "choice2": "closure",
+            "choice3": "object",
+            "choice4": "argument",
+            "answer": "closure"
+        },
+        {
+            "question": "In JavaScript, functions are ___ objects.",
+            "choice1": "primitive",
+            "choice2": "second-class",
+            "choice3": "undocumented",
+            "choice4": "first-class",
+            "answer": "first-class"
+        },
+        {
+            "question": "What is a function without a name?",
+            "choice1": "anonymous",
+            "choice2": "alien",
+            "choice3": "private",
+            "choice4": "hidden",
+            "answer": "anonymous"
+        },
+        {
+            "question": "Callback functions are ___.",
+            "choice1": "undefined",
+            "choice2": "closures",
+            "choice3": "low priority",
+            "choice4": "second-class",
+            "answer": "closures"
+        },
+        {
+            "question": "The bundling of data and the methods that act on that data such that access to that data is restricted from outside the bundle is called ___.",
+            "choice1": "extension",
+            "choice2": "encapsulation",
+            "choice3": "polymorphism",
+            "choice4": "inheritance",
+            "answer": "encapsulation"
+        },
+        {
+            "question": "The ____ operator, which uses the ... synxtax, copies elements from an array/object into a different array/object.",
+            "choice1": "dot",
+            "choice2": "bracket",
+            "choice3": "pop",
+            "choice4": "spread",
+            "answer": "spread"
+        },
+        {
+            "question": "Aync/Await is a special syntax to facilitate working with JavaScript ___.",
+            "choice1": "classes",
+            "choice2": "objects",
+            "choice3": "promises",
+            "choice4": "functions",
+            "answer": "promises"
+        },
+        {
+            "question": "Each JavaScript object has a private property which holds a link to another object called its ___.",
+            "choice1": "prototype",
+            "choice2": "class definition",
+            "choice3": "extension links",
+            "choice4": "ancestors",
+            "answer": "prototype"
+        },
+        {
+            "question": "JavaScript classes are primary syntactical sugar over the existing ____-based inheritance.",
+            "choice1": "extended",
+            "choice2": "dynamic",
+            "choice3": "prototype",
+            "choice4": "ancestor",
+            "answer": "prototype"
+        },
+        {
+            "question": "The programming technique that attempts to increase a function's performance by caching its previously computed results is called ____.",
+            "choice1": "data pipelining",
+            "choice2": "multi-threading",
+            "choice3": "memoization",
+            "choice4": "parallel processing",
+            "answer": "memoization"
+        },
+        {
+            "question": "JavaScript has capability that can execute code out of sequential order to accomodate functions that require some passage of time, interaction etc. This capability is ___ programming.",
+            "choice1": "synchronous",
+            "choice2": "asynchronous",
+            "choice3": "in-order",
+            "choice4": "sequential",
+            "answer": "asynchronous"
+        },
+        {
+            "question": "The ___ object represents the eventual completion (or failure) of an asynchronous operation, and its resulting value.",
+            "choice1": "pending",
+            "choice2": "synchronous",
+            "choice3": "instance",
+            "choice4": "promise",
+            "answer": "promise"
+        },
+        {
+            "question": "In JavaScript, ‘this’ refers to the object that ____ the object.",
+            "choice1": "Receives",
+            "choice2": "Depends",
+            "choice3": "Owns",
+            "choice4": "Direct",
+            "answer": "Owns"
+        },
+        {
+            "question": "How do you find the minimum of x and y using JavaScript?",
+            "choice1": "min(x,y);",
+            "choice2": "Math.min(x,y);",
+            "choice3": "Math.min(xy);",
+            "choice4": "Min(xy);",
+            "answer": "Math.min(x,y);"
+        }
     ]
 }
